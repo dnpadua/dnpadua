@@ -15,4 +15,4 @@ Busco me aprimorar cada vez mais, utilizando a programação para resolver probl
 
 💼 [LinkedIn](https://www.linkedin.com/in/dnpadua/)
 
-![Snake animation](https://github.com/dnpadua/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dnpadua/dnpadua/blob/output/github-contribution-grid-snake.svg)
