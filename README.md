@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, eu sou Daniel Pádua! 👋
 
-<!--
-**dnpadua/dnpadua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Sou fascinado por tecnologia!
 
-Here are some ideas to get you started:
+Busco me aprimorar cada vez mais, utilizando a programação para resolver problemas é soluções inovadoras!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Atualmente estou estudando 👨‍💻
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [MySQL](https://www.mysql.com/)
+- [Flutter](https://flutter.dev/)
+- [FireBase](https://firebase.google.com/)
+
+### Me encontre em outro lugar 🌎
+
+💼 [LinkedIn](https://www.linkedin.com/in/dnpadua/)
