@@ -1,4 +1,4 @@
-### Olá, eu sou Daniel Pádua! 👋
+### Olá, prazer Daniel Pádua! 👋
 
 🤓 Sou fascinado por tecnologia!
 
