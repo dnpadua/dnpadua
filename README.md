@@ -7,10 +7,9 @@ Busco me aprimorar cada vez mais, utilizando a programação para resolver probl
 ### Atualmente estou estudando 👨‍💻
 
 - [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
 - [MySQL](https://www.mysql.com/)
 - [Flutter](https://flutter.dev/)
-- [FireBase](https://firebase.google.com/)
+- [Firebase](https://firebase.google.com/)
 
 ### Me encontre em outro lugar 🌎
 
