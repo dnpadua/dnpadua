@@ -14,5 +14,3 @@ Procuro me aprimorar cada vez mais, utilizando a programação para resolver pro
 ### Me encontre em outro lugar 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/dnpadua/)
-
-![Snake animation](https://github.com/dnpadua/dnpadua/blob/output/github-contribution-grid-snake.svg)
