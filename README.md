@@ -2,7 +2,7 @@
 
 🤓 Sou fascinado por tecnologia!
 
-Procuro me aprimorar cada vez mais, utilizando a programação para resolver problemas é buscar soluções inovadoras!
+Procuro me aprimorar cada vez mais, utilizando a programação para resolver problemas é buscar soluções inovadoras.
 
 ### Atualmente estou estudando 👨‍💻
 
