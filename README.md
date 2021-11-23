@@ -4,7 +4,7 @@
 
 Procuro me aprimorar cada vez mais, utilizando a programação para resolver problemas é buscar soluções inovadoras.
 
-### Atualmente estou estudando 👨‍💻
+### Atualmente estou desbravando as seguintes ferramentas 👨‍💻
 
 - [Node.js](https://nodejs.org/en/)
 - [MySQL](https://www.mysql.com/)
