@@ -8,7 +8,7 @@ Procuro me aprimorar cada vez mais, utilizando a programação para resolver pro
 
 - [Node.js](https://nodejs.org/en/)
 - [MySQL](https://www.mysql.com/)
-- [Php](https://www.php.net/)
+- [PHP](https://www.php.net/)
 - [Firebase](https://firebase.google.com/)
 
 ### Me encontre em outro lugar 🌎
