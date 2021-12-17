@@ -6,9 +6,9 @@ Procuro me aprimorar cada vez mais, utilizando a programação para resolver pro
 
 ### Atualmente estou desbravando as seguintes ferramentas 👨‍💻
 
+- [PHP](https://www.php.net/)
 - [Node.js](https://nodejs.org/en/)
 - [MySQL](https://www.mysql.com/)
-- [PHP](https://www.php.net/)
 - [Firebase](https://firebase.google.com/)
 
 ### Me encontre em outro lugar 🌎
