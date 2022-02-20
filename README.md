@@ -8,6 +8,7 @@ Procuro me aprimorar cada vez mais, utilizando a programação para resolver pro
 
 - [Node.js](https://nodejs.org/en/)
 - [MySQL](https://www.mysql.com/)
+- [React Native](https://reactnative.dev/)
 - [Firebase](https://firebase.google.com/)
 
 ### Me encontre em outro lugar 🌎
