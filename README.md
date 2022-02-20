@@ -7,3 +7,4 @@ Procuro me aprimorar cada vez mais, utilizando a programação para resolver pro
 ### Me encontre em outro lugar 🌎
 
 💼 [LinkedIn](https://www.linkedin.com/in/dnpadua/)
+⚓ [Alura](https://cursos.alura.com.br/user/dnpadua)
