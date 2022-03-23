@@ -8,4 +8,6 @@ Procuro me aprimorar cada vez mais com metodologias `ágeis e inovadoras`, vejo 
 
 ⚓ [Alura](https://cursos.alura.com.br/user/dnpadua)
 
+🚀 [Rocketseat](https://app.rocketseat.com.br/me/dnpadua)
+
 💼 [LinkedIn](https://www.linkedin.com/in/dnpadua/)
