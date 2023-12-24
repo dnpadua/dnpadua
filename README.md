@@ -1,8 +1,8 @@
 ### Olá, prazer Daniel Pádua! 👋
 
-🤓 Sou fascinado por tecnologia!
+Fascinado por tecnologia!
 
-Procuro me aprimorar cada vez mais com metodologias `ágeis e inovadoras`, vejo na programação uma ferramenta para ajudar resolver problemas.
+Profissional focado em análise de dados para gestão de frotas, com experiência em otimização operacional e redução de custos através de estratégias baseadas em dados.
 
 ### Me encontre em outro lugar 🌎
 
